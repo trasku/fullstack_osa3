@@ -1,1 +1,1 @@
-GET http://localhost:3001/api/notes
+GET https://fullstack-osa3-etw6.onrender.com/api/notes
